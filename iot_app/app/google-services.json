@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "93013982033",
+    "firebase_url": "https://basic-practice-e1112-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "basic-practice-e1112",
+    "storage_bucket": "basic-practice-e1112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93013982033:android:66a91b36a37c2dd2b4f170",
+        "android_client_info": {
+          "package_name": "com.example.iot_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93013982033-i0vicsj1bs3b0tjpv921mgqav1dq8sub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa_rDTF_3KFXlPMJhQJB7rkvixInotG7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93013982033-i0vicsj1bs3b0tjpv921mgqav1dq8sub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
